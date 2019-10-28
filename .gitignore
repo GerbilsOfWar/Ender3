@@ -1,0 +1,15 @@
+##
+## .gitignore
+##
+## Git ignore file for the Ender 3 firmware respository
+##
+
+
+##
+## Exclude original Creality downloads as these are publically available
+##
+Creality Versions/
+
+##
+## Exclude downloaded version as not my code to share
+*.7z
